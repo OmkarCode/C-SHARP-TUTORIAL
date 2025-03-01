@@ -1,0 +1,7 @@
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Sort\bin\Debug\Sort.exe.config
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Sort\bin\Debug\Sort.exe
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Sort\bin\Debug\Sort.pdb
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Sort\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Sort\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Sort\obj\Debug\Sort.exe
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Sort\obj\Debug\Sort.pdb
