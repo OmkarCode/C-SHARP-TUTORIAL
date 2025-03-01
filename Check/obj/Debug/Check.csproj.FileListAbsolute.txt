@@ -1,0 +1,7 @@
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Check\bin\Debug\Check.exe.config
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Check\bin\Debug\Check.exe
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Check\bin\Debug\Check.pdb
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Check\obj\Debug\Check.csproj.AssemblyReference.cache
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Check\obj\Debug\Check.csproj.CoreCompileInputs.cache
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Check\obj\Debug\Check.exe
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Check\obj\Debug\Check.pdb

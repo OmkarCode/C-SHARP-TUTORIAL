@@ -1,0 +1,7 @@
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Collections\bin\Debug\Collections.exe.config
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Collections\bin\Debug\Collections.exe
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Collections\bin\Debug\Collections.pdb
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Collections\obj\Debug\Collections.exe
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Collections\obj\Debug\Collections.pdb

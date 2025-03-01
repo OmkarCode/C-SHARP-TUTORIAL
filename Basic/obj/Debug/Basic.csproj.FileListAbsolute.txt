@@ -1,0 +1,7 @@
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Basic\bin\Debug\Basic.exe.config
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Basic\bin\Debug\Basic.exe
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Basic\bin\Debug\Basic.pdb
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Basic\obj\Debug\Basic.exe
+C:\Users\Omkar Chauhan\Downloads\C-SHARP-TUTORIAL-CODE-WITH-HARRY-master\Basic\obj\Debug\Basic.pdb
